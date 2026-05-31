@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Your Name]<br><br>💻 Passionate about software development, problem-solving, and building useful projects.<br><br>🚀 Interested in:<br>- aiml development<br>- Open-source contributions<br>- AI & emerging technologies<br>- Learning new tools and frameworks<br><br>📚 Always learning, always building.<br><br>🌱 Current focus: Improving my skills through real-world projects and continuous learning.<br><br>📫 Reach me: [email/linkedin/portfolio]
+👋 Hi, I'm Iha Negi <br><br>💻 Passionate about software development, problem-solving, and building useful projects.<br><br>🚀 Interested in:<br>- aiml development<br>- Open-source contributions<br>- AI & emerging technologies<br>- Learning new tools and frameworks<br><br>📚 Always learning, always building.<br><br>🌱 Current focus: Improving my skills through real-world projects and continuous learning.<br><br>📫 Reach me:[(  https://www.linkedin.com/in/isha-negi-242k7 )]
 
 
 # 💻 Tech Stack:
