@@ -117,11 +117,11 @@
 
 ```diff
 + [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
++ [ACTIVE]    📚 Learning: AI/ML, Deep Learning
 + [ACTIVE]    💻 Grinding: DSA & Competitive Programming
 ! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+! [PENDING]   🌐 Shipping: Data-driven web apps
+- [LOCKED]    👑 Boss Fight: Land a dream role in AI/ML
 ```
 
 <div align="center">
@@ -130,8 +130,8 @@
 |:--|:--|:--|
 | 🐍 Python | `████████░░` | **80%** |
 | 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
-| ⚛️ React | `██████░░░░` | **60%** |
+| 🧠 AI / ML | `████████░░` | **80%** |
+| ⚛️ React | `██████░░░░` | **40%** |
 | 🏗️ DSA | `███████░░░` | **70%** |
 | ☕ Caffeine | `██████████` | **MAX** |
 
@@ -154,9 +154,9 @@
 <div align="center">
 
 <a href="https://github.com/ishanegi7"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+<a href="mailto:negiishaan89@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+<a href="https://www.linkedin.com/in/isha-negi-242k7"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<a href="https://www.instagram.com/___ishhhhu__/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
 
 <br/><br/>
 
