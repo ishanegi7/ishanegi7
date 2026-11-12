@@ -19,6 +19,7 @@
 
 </div>
 
+```
 
 Hey there! 👋 I'm Isha Negi, an AI/ML Developer who loves turning complex data into smart, actionable insights. My journey in tech is all about building intelligent systems that can learn, adapt, and make a real impact.
 
@@ -30,7 +31,7 @@ The AI/ML landscape is constantly evolving, and I'm always excited to keep up! L
 
 ### Let's Connect! 🤝
 Got a cool project idea, want to talk about AI, or just fancy a chat? Feel free to reach out!
-
+```
 *   **Email:** ishawork2k7@gmail.com
 *   **GitHub:** ishanegi7
 
@@ -108,28 +109,6 @@ Looking forward to connecting with fellow enthusiasts!
 
 ---
 
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<!---->
-</div>
-
----
-
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ishanegi7/ishanegi7/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ishanegi7/ishanegi7/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ishanegi7/ishanegi7/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
 
 ## 🎯 `> cat current_quests.log`
 
