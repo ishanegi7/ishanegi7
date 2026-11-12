@@ -120,7 +120,6 @@
 + [ACTIVE]    📚 Learning: AI/ML, Deep Learning
 + [ACTIVE]    💻 Grinding: DSA & Competitive Programming
 ! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Data-driven web apps
 - [LOCKED]    👑 Boss Fight: Land a dream role in AI/ML
 ```
 
@@ -131,7 +130,6 @@
 | 🐍 Python | `████████░░` | **80%** |
 | 📊 Data Science | `███████░░░` | **70%** |
 | 🧠 AI / ML | `████████░░` | **80%** |
-| ⚛️ React | `██████░░░░` | **40%** |
 | 🏗️ DSA | `███████░░░` | **70%** |
 | ☕ Caffeine | `██████████` | **MAX** |
 
