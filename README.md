@@ -1,3 +1,7 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="ishanegi7" src="art/header-light.png">
+</picture>
 <div align="center">
 
 <!-- Animated Living Identity Banner -->
@@ -104,9 +108,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=ishanegi7&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ishanegi7&theme=github-dark&mode=dark&style=snake" />
-  <img alt="snake eating contributions" src="https://www.gitskins.com/api/section/heatmap?username=ishanegi7&theme=github-dark&mode=dark&style=snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ishanegi7/ishanegi7/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ishanegi7/ishanegi7/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ishanegi7/ishanegi7/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
