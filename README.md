@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <img alt="ishanegi7" src="art/header-light.png">
-</picture>
+
 <div align="center">
 
 <!-- Animated Living Identity Banner -->
@@ -25,6 +22,98 @@
 ---
 
 ## 🐱 About Me
+<h1 align="center">Hi 👋, I'm isha negi</h1>
+<h3 align="center">AI/ML DEVELOPER</h3>
+
+<p align="center">
+[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/ishanegi7)
+[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/isha-negi-242k7)
+[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:ishawork2k7@gmail.com)
+</p>
+
+<hr/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ishanegi7&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+</p>
+
+Hey there! 👋 I'm Isha Negi, an AI/ML Developer who loves turning complex data into smart, actionable insights. My journey in tech is all about building intelligent systems that can learn, adapt, and make a real impact.
+
+### What I'm Cooking Up 🍳
+Currently, you'll often find me immersed in crafting robust predictive models, delving into computer vision challenges, or exploring the fascinating world of Natural Language Processing (NLP) to make machines understand and interact with human language more intuitively. I'm passionate about designing solutions that are not just technically sound but also bring tangible value.
+
+### Always Growing 🌱
+The AI/ML landscape is constantly evolving, and I'm always excited to keep up! Lately, I've been diving deeper into MLOps practices to streamline the deployment and management of AI models in production. I'm also keen on understanding the intricacies of explainable AI (XAI) to ensure our models are not just accurate but also transparent and trustworthy. There's always something new to learn, and I'm here for it!
+
+### Let's Connect! 🤝
+Got a cool project idea, want to talk about AI, or just fancy a chat? Feel free to reach out!
+
+*   **Email:** ishawork2k7@gmail.com
+*   **GitHub:** ishanegi7
+
+Looking forward to connecting with fellow enthusiasts!
+
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy-mu.vercel.app/?username=ishanegi7&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-102216?style=for-the-badge&logo=amazonaws&logoColor=11d452" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Azure-102216?style=for-the-badge&logo=azure&logoColor=11d452" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-102216?style=for-the-badge&logo=openai&logoColor=11d452" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishanegi7&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanegi7&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi7&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanegi7&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+
 
 <div align="center">
 
@@ -98,7 +187,6 @@
 <div align="center">
 
 <!---->
-
 </div>
 
 ---
