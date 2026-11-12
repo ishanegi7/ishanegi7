@@ -19,23 +19,6 @@
 
 </div>
 
----
-
-## 🐱 About Me
-<h1 align="center">Hi 👋, I'm isha negi</h1>
-<h3 align="center">AI/ML DEVELOPER</h3>
-
-<p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/ishanegi7)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/isha-negi-242k7)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:ishawork2k7@gmail.com)
-</p>
-
-<hr/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishanegi7&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
 
 Hey there! 👋 I'm Isha Negi, an AI/ML Developer who loves turning complex data into smart, actionable insights. My journey in tech is all about building intelligent systems that can learn, adapt, and make a real impact.
 
@@ -52,12 +35,6 @@ Got a cool project idea, want to talk about AI, or just fancy a chat? Feel free 
 *   **GitHub:** ishanegi7
 
 Looking forward to connecting with fellow enthusiasts!
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy-mu.vercel.app/?username=ishanegi7&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ## 💻 Tech Stack
 
@@ -99,20 +76,6 @@ Looking forward to connecting with fellow enthusiasts!
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishanegi7&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanegi7&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi7&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanegi7&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 
 
 <div align="center">
@@ -121,43 +84,6 @@ Looking forward to connecting with fellow enthusiasts!
 
 </div>
 
-
-
-## ⚔️ `> cat inventory.txt` — Skill Tree
-
-<div align="center">
-
-**🧠 Languages**
-
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
-
-**🌐 Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
-
-<em>✏️ The tools you reach for, in a sentence.</em>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-**🗄️ Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
-
-**🧩 DSA & Problem Solving**
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
-
----
 
 ## 📊 `> ./stats --player=ishanegi7`
 
