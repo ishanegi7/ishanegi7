@@ -11,15 +11,15 @@
     <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0A0A0C" />
       <stop offset="35%" stop-color="#0D1117" />
-      <stop offset="60%" stop-color="#E50914" />
-      <stop offset="85%" stop-color="#B20710" />
+      <stop offset="60%" stop-color="#FF334B" />
+      <stop offset="85%" stop-color="#FF5468" />
       <stop offset="100%" stop-color="#0A0A0C" />
     </linearGradient>
 
     <linearGradient id="footerBeam" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E50914" stop-opacity="0" />
+      <stop offset="0%" stop-color="#FF334B" stop-opacity="0" />
       <stop offset="50%" stop-color="#ffffff" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#E50914" stop-opacity="0" />
+      <stop offset="100%" stop-color="#FF334B" stop-opacity="0" />
     </linearGradient>
   </defs>
 

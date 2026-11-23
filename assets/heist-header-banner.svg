@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="100%" style="background:#090c10;border-radius:12px;font-family:'Fira Code',ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;">
   <defs>
-    <!-- Glowing Crimson Filter -->
+    <!-- Radiant Electric Crimson Filter -->
     <filter id="crimsonGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="blur" />
@@ -11,9 +11,9 @@
     </filter>
 
     <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feGaussianBlur stdDeviation="5" result="blur" />
       <feComponentTransfer in="blur" result="glow1">
-        <feFuncA type="linear" slope="0.6"/>
+        <feFuncA type="linear" slope="0.5"/>
       </feComponentTransfer>
       <feMerge>
         <feMergeNode in="glow1" />
@@ -21,37 +21,37 @@
       </feMerge>
     </filter>
 
-    <!-- Gradients -->
+    <!-- Refined Luminous Gradients -->
     <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0A0A0C" />
-      <stop offset="30%" stop-color="#0D1117" />
-      <stop offset="65%" stop-color="#E50914" />
-      <stop offset="85%" stop-color="#B20710" />
+      <stop offset="25%" stop-color="#0D1117" />
+      <stop offset="55%" stop-color="#FF334B" />
+      <stop offset="80%" stop-color="#FF5468" />
       <stop offset="100%" stop-color="#0A0A0C" />
     </linearGradient>
 
     <linearGradient id="waveGrad2" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E50914" stop-opacity="0.1" />
-      <stop offset="50%" stop-color="#E50914" stop-opacity="0.75" />
-      <stop offset="100%" stop-color="#E50914" stop-opacity="0.1" />
+      <stop offset="0%" stop-color="#FF334B" stop-opacity="0.08" />
+      <stop offset="50%" stop-color="#FF334B" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#FF334B" stop-opacity="0.08" />
     </linearGradient>
 
     <linearGradient id="laserLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E50914" stop-opacity="0" />
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#E50914" stop-opacity="0" />
+      <stop offset="0%" stop-color="#FF334B" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#FF334B" stop-opacity="0" />
     </linearGradient>
 
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#090c10" />
-      <stop offset="70%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#140203" />
+      <stop offset="60%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#12161f" />
     </linearGradient>
 
-    <!-- Blueprint Grid Pattern -->
-    <pattern id="headerGrid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#21262d" stroke-width="0.6" stroke-opacity="0.45" />
-      <circle cx="0" cy="0" r="1" fill="#E50914" fill-opacity="0.5" />
+    <!-- Tactical Grid Pattern -->
+    <pattern id="headerGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#21262d" stroke-width="0.5" stroke-opacity="0.4" />
+      <circle cx="0" cy="0" r="0.8" fill="#FF334B" fill-opacity="0.6" />
     </pattern>
 
     <!-- Wave Animations -->
@@ -66,17 +66,17 @@
         animation: textPulse 3s ease-in-out infinite alternate;
       }
       @keyframes laserShift {
-        0% { transform: translateY(0px) scaleY(1); opacity: 0.6; }
-        50% { transform: translateY(-4px) scaleY(1.2); opacity: 0.95; }
-        100% { transform: translateY(0px) scaleY(1); opacity: 0.6; }
+        0% { transform: translateY(0px) scaleY(1); opacity: 0.65; }
+        50% { transform: translateY(-3px) scaleY(1.15); opacity: 0.95; }
+        100% { transform: translateY(0px) scaleY(1); opacity: 0.65; }
       }
       @keyframes nodeGlow {
-        0% { filter: drop-shadow(0 0 2px #E50914); opacity: 0.7; }
-        100% { filter: drop-shadow(0 0 8px #E50914); opacity: 1; }
+        0% { filter: drop-shadow(0 0 2px #FF334B); opacity: 0.8; }
+        100% { filter: drop-shadow(0 0 8px #FF334B); opacity: 1; }
       }
       @keyframes textPulse {
-        0% { filter: drop-shadow(0 0 8px rgba(229, 9, 20, 0.4)); }
-        100% { filter: drop-shadow(0 0 20px rgba(229, 9, 20, 0.85)); }
+        0% { filter: drop-shadow(0 0 6px rgba(255, 51, 75, 0.35)); }
+        100% { filter: drop-shadow(0 0 16px rgba(255, 51, 75, 0.75)); }
       }
     </style>
   </defs>
@@ -89,7 +89,7 @@
   <rect x="1" y="1" width="998" height="238" rx="11" fill="none" stroke="#30363d" stroke-width="1.2" />
 
   <!-- Tactical Corner Crosshairs & Brackets -->
-  <g stroke="#E50914" stroke-width="2" fill="none">
+  <g stroke="#FF334B" stroke-width="2" fill="none">
     <path d="M 16 32 L 16 16 L 32 16" />
     <path d="M 984 32 L 984 16 L 968 16" />
     <path d="M 16 208 L 16 224 L 32 224" />
@@ -99,15 +99,15 @@
   <!-- HUD Telemetry Header Markings -->
   <g font-size="9.5" fill="#8b949e" letter-spacing="1.5">
     <text x="40" y="28">SEC_ZONE: // 40.4168° N, 3.7038° W</text>
-    <text x="500" y="28" text-anchor="middle" fill="#E50914" font-weight="700">● LIVE TRANSMISSION // ROYAL NEURAL PROTOCOL</text>
+    <text x="500" y="28" text-anchor="middle" fill="#FF334B" font-weight="700">● LIVE TRANSMISSION // ROYAL NEURAL PROTOCOL</text>
     <text x="960" y="28" text-anchor="end">SYS_CLEARANCE: LEVEL_05</text>
   </g>
   <line x1="40" y1="36" x2="960" y2="36" stroke="#21262d" stroke-width="1" />
 
-  <!-- Deep Waving Layers (The Heist Crimson Waves) -->
+  <!-- Flowing Waves (Vibrant Crimson & Deep Stealth) -->
   <g class="laser-pulse">
     <!-- Back Wave -->
-    <path d="M 0 160 Q 250 110, 500 170 T 1000 140 L 1000 240 L 0 240 Z" fill="#E50914" fill-opacity="0.12" />
+    <path d="M 0 160 Q 250 110, 500 170 T 1000 140 L 1000 240 L 0 240 Z" fill="#FF334B" fill-opacity="0.12" />
     
     <!-- Mid Wave -->
     <path d="M 0 175 Q 220 135, 480 195 T 1000 165 L 1000 240 L 0 240 Z" fill="url(#waveGrad2)" />
@@ -116,14 +116,14 @@
     <path d="M 0 190 C 200 140, 380 230, 620 170 C 800 120, 920 210, 1000 185 L 1000 240 L 0 240 Z" fill="url(#waveGrad1)" />
 
     <!-- Glowing Vector Accent Line -->
-    <path d="M 0 190 C 200 140, 380 230, 620 170 C 800 120, 920 210, 1000 185" fill="none" stroke="url(#laserLine)" stroke-width="2.5" filter="url(#crimsonGlow)" />
+    <path d="M 0 190 C 200 140, 380 230, 620 170 C 800 120, 920 210, 1000 185" fill="none" stroke="url(#laserLine)" stroke-width="2.2" filter="url(#crimsonGlow)" />
   </g>
 
   <!-- Glowing Neural Nodes Along Wave Axis -->
-  <g fill="#ffffff" stroke="#E50914" stroke-width="2" class="node-pulse">
+  <g fill="#ffffff" stroke="#FF334B" stroke-width="2" class="node-pulse">
     <circle cx="200" cy="162" r="3.5" />
     <circle cx="380" cy="208" r="3.5" />
-    <circle cx="620" cy="170" r="4.5" fill="#E50914" />
+    <circle cx="620" cy="170" r="4.5" fill="#FF334B" />
     <circle cx="800" cy="142" r="3.5" />
   </g>
 
@@ -131,7 +131,7 @@
   <!-- HERO IDENTITY: ISHA NEGI                                               -->
   <!-- ======================================================================= -->
   <!-- Background Glow Aura -->
-  <text x="500" y="112" font-size="64" font-weight="900" fill="#E50914" text-anchor="middle" letter-spacing="6" opacity="0.25" filter="url(#crimsonGlow)">
+  <text x="500" y="112" font-size="64" font-weight="900" fill="#FF334B" text-anchor="middle" letter-spacing="6" opacity="0.2" filter="url(#crimsonGlow)">
     ISHA NEGI
   </text>
 
@@ -140,8 +140,8 @@
     ISHA NEGI
   </text>
 
-  <!-- Tactical Subtitle -->
-  <text x="500" y="142" font-size="15" font-weight="700" fill="#E50914" text-anchor="middle" letter-spacing="4">
+  <!-- Tactical Subtitle in Luminous Electric Crimson -->
+  <text x="500" y="142" font-size="15" font-weight="700" fill="#FF334B" text-anchor="middle" letter-spacing="4">
     TACTICAL AI &amp; NEURAL SYSTEMS ARCHITECT
   </text>
 
@@ -151,7 +151,7 @@
   </text>
 
   <!-- Salvador Dalí Origami Bird Vector Accent -->
-  <g transform="translate(485, 172) scale(0.65)" stroke="#E50914" stroke-width="1.8" fill="none" filter="url(#crimsonGlow)">
+  <g transform="translate(485, 172) scale(0.65)" stroke="#FF334B" stroke-width="1.8" fill="none" filter="url(#crimsonGlow)">
     <polygon points="23,0 46,18 23,36 0,18" />
     <line x1="23" y1="0" x2="23" y2="36" />
     <line x1="0" y1="18" x2="46" y2="18" />
