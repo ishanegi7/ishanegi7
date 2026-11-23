@@ -1,170 +1,228 @@
-
+<!-- ========================================================================= -->
+<!-- HEADER & TACTICAL HERO BANNER                                             -->
+<!-- ========================================================================= -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,45:0D1117,70:E50914,100:0A0A0C&height=230&section=header&text=ISHA%20NEGI&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=TACTICAL%20AI%20%26%20NEURAL%20SYSTEMS%20ARCHITECT&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Isha Negi - Tactical AI Header" />
 
-<!-- Animated Living Identity Banner -->
-<!---->
-
-<br/>
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+ishanegi7+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ishanegi7&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/ishanegi7?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ishanegi7?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
-
+  <a href="https://github.com/ishanegi7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=E50914&background=0D111700&center=true&vCenter=true&multiline=false&width=680&height=45&lines=%3E+EXECUTING%3A+Production-Grade+AI+%26+LLM+Pipelines;%3E+ARCHITECTING%3A+Self-Healing+RAG+%26+Dynamic+Knowledge+Graphs;%3E+INTERCEPTING%3A+Zero-Day+API+Vulnerabilities+(BOLA%2FIDOR);%3E+DEEP+LEARNING%3A+Stochastic+Surge+Predictive+Engines" alt="Tactical Terminal Stream" />
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/CLEARANCE-B.TECH_CSE_(AI_%26_ML)-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Clearance" />
+  <img src="https://img.shields.io/badge/PROTOCOL-ZERO_SEMANTIC_DRIFT-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Protocol" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL_%2F%2F_ACTIVE-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Status" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 3D MONEY HEIST ANIMATED TELEMETRY & VAULT MATRIX                          -->
+<!-- ========================================================================= -->
+<div align="center">
+  <img src="./assets/heist-3d-neural-vault.svg" width="100%" alt="3D Isometric Tactical Vault - Money Heist Telemetry" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 01 // MISSION BRIEF & DOSSIER                                             -->
+<!-- ========================================================================= -->
+### 🔴 `[01] // MISSION BRIEF (DOSSIER)`
+
+```yaml
+OPERATIVE     : Isha Negi (@ishanegi7)
+CODENAME      : The Architect
+SPECIALIZATION: End-to-End Deep Learning, Self-Healing RAG, LLM Security Automation
+CURRENT_PLAN  : Engineering fault-tolerant autonomous agent pipelines and self-auditing knowledge graphs
+DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No exceptions."
 ```
 
-Hey there! 👋 I'm Isha Negi, an AI/ML Developer who loves turning complex data into smart, actionable insights. My journey in tech is all about building intelligent systems that can learn, adapt, and make a real impact.
+> **The Professor's Calculus:** *“In a high-stakes heist, surprises are design failures. In machine learning systems, hallucinations and semantic drift are the equivalent of an alarm going off. I engineer architectures that detect, quarantine, and repair drift before generation occurs.”*
 
-### What I'm Cooking Up 🍳
-Currently, you'll often find me immersed in crafting robust predictive models, delving into computer vision challenges, or exploring the fascinating world of Natural Language Processing (NLP) to make machines understand and interact with human language more intuitively. I'm passionate about designing solutions that are not just technically sound but also bring tangible value.
+---
 
-### Always Growing 🌱
-The AI/ML landscape is constantly evolving, and I'm always excited to keep up! Lately, I've been diving deeper into MLOps practices to streamline the deployment and management of AI models in production. I'm also keen on understanding the intricacies of explainable AI (XAI) to ensure our models are not just accurate but also transparent and trustworthy. There's always something new to learn, and I'm here for it!
+<!-- ========================================================================= -->
+<!-- 02 // THE BLUEPRINT (FEATURED OPERATIONS)                                -->
+<!-- ========================================================================= -->
+### 🏛️ `[02] // THE BLUEPRINT (FLAGSHIP OPERATIONS)`
 
-### Let's Connect! 🤝
-Got a cool project idea, want to talk about AI, or just fancy a chat? Feel free to reach out!
-```
-*   **Email:** ishawork2k7@gmail.com
-*   **GitHub:** ishanegi7
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- OPERATION 01: ContextDrift -->
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>⚡ <a href="https://github.com/ishanegi7/ContextDrift">OPERATION: ContextDrift</a></h4>
+        <p><i>Self-Healing RAG Middleware</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/Knowledge_Graph-0D1117?style=flat-square&logoColor=E50914&color=E50914" />
+        </p>
+        <p>Real-time middleware auditing streaming ingestion pipelines for semantic contradictions, dynamic hallucination penalties, and automated topological graph reconciliation.</p>
+        <ul>
+          <li><b>Vector Audit:</b> Cross-entropy verification against baseline graph triples.</li>
+          <li><b>Fail-Safe:</b> Automatic node quarantine during semantic drift spikes.</li>
+        </ul>
+      </div>
+    </td>
+    <!-- OPERATION 02: GuardRail AI -->
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🛡️ <a href="https://github.com/ishanegi7/GuardRail-">OPERATION: GuardRail AI</a></h4>
+        <p><i>Autonomous API Security & Patching Platform</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/LLM_Security-0D1117?style=flat-square&logoColor=E50914&color=E50914" />
+        </p>
+        <p>Adversarial LLM execution engine targeting OWASP API Top 10 vulnerabilities (BOLA/IDOR), running continuous AST penetration tests, and synthesizing verified code hotfixes.</p>
+        <ul>
+          <li><b>Red-Team LLM:</b> Synthesizes adversarial payloads to crack endpoint RBAC.</li>
+          <li><b>Self-Healing:</b> Directly generates and runs unit tests for dynamic patches.</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- OPERATION 03: QueueMind -->
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>🧠 <a href="https://github.com/ishanegi7/QueueMind">OPERATION: QueueMind</a></h4>
+        <p><i>Emergency Flow & Triage Predictive Engine</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/DuckDB-0D1117?style=flat-square&logo=duckdb&logoColor=E50914" />
+        </p>
+        <p>High-precision stochastic queue intelligence system forecasting emergency department admissions and dynamic bottleneck shifts under sudden surge loads.</p>
+        <ul>
+          <li><b>Horizon Forecast:</b> Multi-horizon patient triage arrival estimation.</li>
+          <li><b>Explainable AI:</b> Real-time SHAP feature attribution for triage clinicians.</li>
+        </ul>
+      </div>
+    </td>
+    <!-- OPERATION 04: EdgeNeural -->
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>👁️ <a href="https://github.com/ishanegi7">OPERATION: EdgeNeural</a></h4>
+        <p><i>Sub-Millisecond Edge Vision Pipeline</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/YOLOv5-0D1117?style=flat-square&logoColor=E50914&color=E50914" />
+        </p>
+        <p>Hardware-quantized edge perception pipeline achieving sustained 120 FPS object tracking and anomaly localization on resource-constrained embedded runtimes.</p>
+        <ul>
+          <li><b>Optimization:</b> FP16/INT8 dynamic quantization via ONNX Runtime.</li>
+          <li><b>Telemetry:</b> Zero-drop IPC streaming protocol for low-bandwidth relays.</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
 
-Looking forward to connecting with fellow enthusiasts!
+---
 
-## 💻 Tech Stack
+<!-- ========================================================================= -->
+<!-- 03 // THE ARSENAL (TECH STACK) - SLEEK COMPACT BADGES                     -->
+<!-- ========================================================================= -->
+### 🧰 `[03] // THE ARSENAL (TACTICAL WEAPONRY)`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-102216?style=for-the-badge&logo=amazonaws&logoColor=11d452" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Azure-102216?style=for-the-badge&logo=azure&logoColor=11d452" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-102216?style=for-the-badge&logo=openai&logoColor=11d452" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="28%"><b>Core AI / ML & DL</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E50914" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E50914" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/scikit_learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=E50914" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=E50914" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E50914" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/YOLOv5-0D1117?style=flat-square&logo=target&logoColor=E50914" alt="YOLOv5" />
+      <img src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=E50914" alt="ONNX" />
+      <img src="https://img.shields.io/badge/SHAP-0D1117?style=flat-square&logo=python&logoColor=E50914" alt="SHAP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLMs, RAG & Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/BERT-0D1117?style=flat-square&logo=google&logoColor=E50914" alt="BERT" />
+      <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=E50914" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=E50914" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LiteLLM-0D1117?style=flat-square&logo=fastapi&logoColor=E50914" alt="LiteLLM" />
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=E50914" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E50914" alt="Pandas" />
+      <img src="https://img.shields.io/badge/DuckDB-0D1117?style=flat-square&logo=duckdb&logoColor=E50914" alt="DuckDB" />
+      <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=E50914" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Apache_Parquet-0D1117?style=flat-square&logo=apache&logoColor=E50914" alt="Parquet" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems & Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=E50914" alt="C++" />
+      <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=E50914" alt="C" />
+      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=E50914" alt="SQL" />
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=E50914" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E50914" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E50914" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================================= -->
+<!-- 04 // TELEMETRY & 3D ACTIVITY MATRIX                                      -->
+<!-- ========================================================================= -->
+### 📊 `[04] // TELEMETRY & 3D ACTIVITY MATRIX`
+
+<div align="center">
+  <a href="https://github.com/ishanegi7">
+    <img src="https://github-readme-stats.vercel.app/api?username=ishanegi7&show_icons=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false&count_private=true&include_all_commits=true" height="155" alt="Isha Negi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ishanegi7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanegi7&layout=compact&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false" height="155" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 3D Isometric Contribution Graph Matrix Generated via GitHub Action -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Isometric Contribution Matrix - Operative Activity" />
+  </picture>
+</div>
+
+---
+
+<!-- ========================================================================= -->
+<!-- 05 // SECURE COMMS & FREQUENCIES                                          -->
+<!-- ========================================================================= -->
+### 📡 `[05] // SECURE COMMS & FREQUENCIES`
+
+<p align="center">
+  <a href="https://linkedin.com/in/ishanegi7">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ishanegi7">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E50914" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:ishanegi.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Encrypted_Mail-0D1117?style=flat-square&logo=gmail&logoColor=E50914" alt="Encrypted Mail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ishanegi7?tab=repositories">
+    <img src="https://img.shields.io/badge/Code_Vault-0D1117?style=flat-square&logo=git&logoColor=E50914" alt="Repositories" />
+  </a>
 </p>
 
-
-
 <div align="center">
-
-<!---->
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E50914,100:0A0A0C&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
-
-
-## 📊 `> ./stats --player=ishanegi7`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishanegi7&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanegi7&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
-
-<img src="https://streak-stats.demolab.com?user=ishanegi7&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
-
-</div>
-
----
-
-## 🏆 `> unlock --achievements`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=ishanegi7&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-
-## 🎯 `> cat current_quests.log`
-
-```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning
-+ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
-! [PENDING]   📊 Goal: Publish research in Data Science
-- [LOCKED]    👑 Boss Fight: Land a dream role in AI/ML
-```
-
-<div align="center">
-
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
-|:--|:--|:--|
-| 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `████████░░` | **80%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
-
-</div>
-
----
-
-## 🎧 `> now_playing --mode=focus`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
-
----
-
-## 📡 `> ping --connect`
-
-<div align="center">
-
-<a href="https://github.com/ishanegi7"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:negiishaan89@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/isha-negi-242k7"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/___ishhhhu__/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
-
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
-
-</div>
-
-<!-- badge-auto: badge-pr-1 pr1 -->
-
-<p align="center"><sub>ishanegi7 ·
