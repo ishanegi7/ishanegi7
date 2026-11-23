@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="100%" height="100%" style="background:#090c10;border-radius:10px;font-family:'Fira Code',ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;">
+  <defs>
+    <filter id="crimsonGlowFooter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0A0C" />
+      <stop offset="35%" stop-color="#0D1117" />
+      <stop offset="60%" stop-color="#E50914" />
+      <stop offset="85%" stop-color="#B20710" />
+      <stop offset="100%" stop-color="#0A0A0C" />
+    </linearGradient>
+
+    <linearGradient id="footerBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#E50914" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="110" fill="#090c10" rx="10" />
+
+  <!-- Flowing Bottom Wave -->
+  <path d="M 0 45 C 220 10, 420 85, 650 35 C 800 5, 920 60, 1000 40 L 1000 110 L 0 110 Z" fill="url(#footerWave)" />
+  <path d="M 0 45 C 220 10, 420 85, 650 35 C 800 5, 920 60, 1000 40" fill="none" stroke="url(#footerBeam)" stroke-width="2" filter="url(#crimsonGlowFooter)" />
+
+  <!-- Strategic Tagline -->
+  <text x="500" y="85" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle" letter-spacing="3">
+    NEURAL HEIST DIVISION // END OF TRANSMISSION // 2026
+  </text>
+</svg>

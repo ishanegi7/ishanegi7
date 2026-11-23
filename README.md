@@ -2,10 +2,12 @@
 <!-- HEADER & TACTICAL HERO BANNER                                             -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,45:0D1117,70:E50914,100:0A0A0C&height=230&section=header&text=ISHA%20NEGI&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=TACTICAL%20AI%20%26%20NEURAL%20SYSTEMS%20ARCHITECT&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Isha Negi - Tactical AI Header" />
+  <img src="https://raw.githubusercontent.com/ishanegi7/ishanegi7/main/assets/heist-header-banner.svg" width="100%" alt="Isha Negi - Tactical AI Header" />
+
+  <br/><br/>
 
   <a href="https://github.com/ishanegi7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=E50914&background=0D111700&center=true&vCenter=true&multiline=false&width=680&height=45&lines=%3E+EXECUTING%3A+Production-Grade+AI+%26+LLM+Pipelines;%3E+ARCHITECTING%3A+Self-Healing+RAG+%26+Dynamic+Knowledge+Graphs;%3E+INTERCEPTING%3A+Zero-Day+API+Vulnerabilities+(BOLA%2FIDOR);%3E+DEEP+LEARNING%3A+Stochastic+Surge+Predictive+Engines" alt="Tactical Terminal Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=E50914&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%3E+EXECUTING%3A+Production-Grade+AI+%26+LLM+Pipelines;%3E+ARCHITECTING%3A+Self-Healing+RAG+%26+Dynamic+Knowledge+Graphs;%3E+INTERCEPTING%3A+Zero-Day+API+Vulnerabilities+(BOLA%2FIDOR);%3E+DEEP+LEARNING%3A+Stochastic+Surge+Predictive+Engines" alt="Tactical Terminal Stream" />
   </a>
 </div>
 
@@ -200,8 +202,9 @@ DIRECTIVE      : "Rule #1: Every system must self-heal before latency spikes. No
 
 <div align="center">
   <a href="https://github.com/ishanegi7">
-    <img src="https://github-readme-stats.vercel.app/api?username=ishanegi7&show_icons=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false&count_private=true&include_all_commits=true" height="155" alt="Isha Negi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ishanegi7&show_icons=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false" height="155" alt="Isha Negi's GitHub Stats" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ishanegi7">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanegi7&layout=compact&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false" height="155" alt="Top Languages" />
   </a>
@@ -243,5 +246,5 @@ DIRECTIVE      : "Rule #1: Every system must self-heal before latency spikes. No
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E50914,100:0A0A0C&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://raw.githubusercontent.com/ishanegi7/ishanegi7/main/assets/heist-footer-banner.svg" width="100%" alt="Footer Wave" />
 </div>
