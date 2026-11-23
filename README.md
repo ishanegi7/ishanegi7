@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/OPERATIVE-ISHA_NEGI-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Operative" />
   <img src="https://img.shields.io/badge/CLEARANCE-B.TECH_CSE_(AI_%26_ML)-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Clearance" />
-  <img src="https://img.shields.io/badge/PROTOCOL-ZERO_SEMANTIC_DRIFT-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Protocol" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-348%2B_LOGGED-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Contributions" />
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL_%2F%2F_ACTIVE-0D1117?style=flat-square&logoColor=E50914&labelColor=0D1117&color=E50914" alt="Status" />
 </div>
 
@@ -21,7 +22,7 @@
 <!-- 3D MONEY HEIST ANIMATED TELEMETRY & VAULT MATRIX                          -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="./assets/heist-3d-neural-vault.svg" width="100%" alt="3D Isometric Tactical Vault - Money Heist Telemetry" />
+  <img src="https://raw.githubusercontent.com/ishanegi7/ishanegi7/main/assets/heist-3d-neural-vault.svg" width="100%" alt="3D Isometric Tactical Vault - Money Heist Telemetry" />
 </div>
 
 <br/>
@@ -32,11 +33,12 @@
 ### 🔴 `[01] // MISSION BRIEF (DOSSIER)`
 
 ```yaml
-OPERATIVE     : Isha Negi (@ishanegi7)
-CODENAME      : The Architect
-SPECIALIZATION: End-to-End Deep Learning, Self-Healing RAG, LLM Security Automation
-CURRENT_PLAN  : Engineering fault-tolerant autonomous agent pipelines and self-auditing knowledge graphs
-DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No exceptions."
+OPERATIVE      : Isha Negi (@ishanegi7)
+CODENAME       : The Architect
+SPECIALIZATION : End-to-End Deep Learning, Self-Healing RAG, LLM Security Automation
+VAULT_INTEL    : 21 Active Repositories | 348+ Annual Neural Commits
+CURRENT_PLAN   : Engineering fault-tolerant autonomous agent pipelines and self-auditing knowledge graphs
+DIRECTIVE      : "Rule #1: Every system must self-heal before latency spikes. No exceptions."
 ```
 
 > **The Professor's Calculus:** *“In a high-stakes heist, surprises are design failures. In machine learning systems, hallucinations and semantic drift are the equivalent of an alarm going off. I engineer architectures that detect, quarantine, and repair drift before generation occurs.”*
@@ -54,7 +56,7 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
     <td width="50%" valign="top">
       <div align="left">
         <h4>⚡ <a href="https://github.com/ishanegi7/ContextDrift">OPERATION: ContextDrift</a></h4>
-        <p><i>Self-Healing RAG Middleware</i></p>
+        <p><i>Self-Healing RAG Middleware & Continuous Knowledge Auditor</i></p>
         <p>
           <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=E50914" />
           <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E50914" />
@@ -67,11 +69,11 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
         </ul>
       </div>
     </td>
-    <!-- OPERATION 02: GuardRail AI -->
+    <!-- OPERATION 02: GuardRail -->
     <td width="50%" valign="top">
       <div align="left">
-        <h4>🛡️ <a href="https://github.com/ishanegi7/GuardRail-">OPERATION: GuardRail AI</a></h4>
-        <p><i>Autonomous API Security & Patching Platform</i></p>
+        <h4>🛡️ <a href="https://github.com/ishanegi7/GuardRail">OPERATION: GuardRail</a></h4>
+        <p><i>Autonomous API Security Testing & Self-Healing Platform</i></p>
         <p>
           <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=E50914" />
           <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E50914" />
@@ -90,7 +92,7 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
     <td width="50%" valign="top">
       <div align="left">
         <h4>🧠 <a href="https://github.com/ishanegi7/QueueMind">OPERATION: QueueMind</a></h4>
-        <p><i>Emergency Flow & Triage Predictive Engine</i></p>
+        <p><i>Emergency Department Flow & Triage Predictive Engine</i></p>
         <p>
           <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E50914" />
           <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=E50914" />
@@ -103,20 +105,20 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
         </ul>
       </div>
     </td>
-    <!-- OPERATION 04: EdgeNeural -->
+    <!-- OPERATION 04: Edge Perception Classifier -->
     <td width="50%" valign="top">
       <div align="left">
-        <h4>👁️ <a href="https://github.com/ishanegi7">OPERATION: EdgeNeural</a></h4>
-        <p><i>Sub-Millisecond Edge Vision Pipeline</i></p>
+        <h4>👁️ <a href="https://github.com/ishanegi7/Cats-vs-Dogs-Classifier">OPERATION: VisionPerception</a></h4>
+        <p><i>Automated Streaming Perception & OpenCV Inference</i></p>
         <p>
-          <img src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=E50914" />
+          <img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=E50914" />
           <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E50914" />
-          <img src="https://img.shields.io/badge/YOLOv5-0D1117?style=flat-square&logoColor=E50914&color=E50914" />
         </p>
-        <p>Hardware-quantized edge perception pipeline achieving sustained 120 FPS object tracking and anomaly localization on resource-constrained embedded runtimes.</p>
+        <p>Automated deep learning visual pipeline featuring streaming data ingestion, batch normalization regularization, and interactive OpenCV custom inference.</p>
         <ul>
-          <li><b>Optimization:</b> FP16/INT8 dynamic quantization via ONNX Runtime.</li>
-          <li><b>Telemetry:</b> Zero-drop IPC streaming protocol for low-bandwidth relays.</li>
+          <li><b>Stream Processing:</b> Automated dataset streaming and batch normalization.</li>
+          <li><b>Inference Engine:</b> Real-time OpenCV image classification overlay.</li>
         </ul>
       </div>
     </td>
@@ -136,10 +138,11 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
     <td>
       <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E50914" alt="Python" />
       <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=E50914" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=E50914" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=E50914" alt="Keras" />
       <img src="https://img.shields.io/badge/scikit_learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=E50914" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=E50914" alt="XGBoost" />
       <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=E50914" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/YOLOv5-0D1117?style=flat-square&logo=target&logoColor=E50914" alt="YOLOv5" />
       <img src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=E50914" alt="ONNX" />
       <img src="https://img.shields.io/badge/SHAP-0D1117?style=flat-square&logo=python&logoColor=E50914" alt="SHAP" />
     </td>
@@ -155,6 +158,7 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
       <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E50914" alt="Pandas" />
       <img src="https://img.shields.io/badge/DuckDB-0D1117?style=flat-square&logo=duckdb&logoColor=E50914" alt="DuckDB" />
       <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=E50914" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=E50914" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Apache_Parquet-0D1117?style=flat-square&logo=apache&logoColor=E50914" alt="Parquet" />
     </td>
   </tr>
@@ -166,6 +170,8 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
       <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=E50914" alt="SQL" />
       <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=E50914" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E50914" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=E50914" alt="AWS" />
+      <img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=E50914" alt="GCP" />
       <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E50914" alt="Git" />
     </td>
   </tr>
@@ -179,6 +185,20 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
 ### 📊 `[04] // TELEMETRY & 3D ACTIVITY MATRIX`
 
 <div align="center">
+  <!-- 3D Isometric Contribution Graph Matrix Generated via GitHub Action -->
+  <img src="https://raw.githubusercontent.com/ishanegi7/ishanegi7/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Matrix - Operative Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Dynamic Contribution Activity Graph in Crimson/Dark HUD -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanegi7&bg_color=0D1117&color=E50914&line=E50914&point=E50914&area=true&hide_border=false" width="100%" alt="Contribution Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/ishanegi7">
     <img src="https://github-readme-stats.vercel.app/api?username=ishanegi7&show_icons=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false&count_private=true&include_all_commits=true" height="155" alt="Isha Negi's GitHub Stats" />
   </a>
@@ -190,12 +210,7 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
 <br/>
 
 <div align="center">
-  <!-- 3D Isometric Contribution Graph Matrix Generated via GitHub Action -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Isometric Contribution Matrix - Operative Activity" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanegi7&background=0D1117&border=E50914&stroke=E50914&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E50914&sideLabels=E50914&dates=8B949E" width="80%" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -206,7 +221,11 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
 ### 📡 `[05] // SECURE COMMS & FREQUENCIES`
 
 <p align="center">
-  <a href="https://linkedin.com/in/ishanegi7">
+  <i>"Channel open. Ready for collaborative AI development, architecture consults, or production research."</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isha-negi-242k7">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -214,12 +233,12 @@ DIRECTIVE     : "Rule #1: Every system must self-heal before latency spikes. No 
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E50914" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:ishanegi.ai@gmail.com">
+  <a href="mailto:ishawork2k7@gmail.com">
     <img src="https://img.shields.io/badge/Encrypted_Mail-0D1117?style=flat-square&logo=gmail&logoColor=E50914" alt="Encrypted Mail" />
   </a>
   &nbsp;
   <a href="https://github.com/ishanegi7?tab=repositories">
-    <img src="https://img.shields.io/badge/Code_Vault-0D1117?style=flat-square&logo=git&logoColor=E50914" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Code_Vault_(21)-0D1117?style=flat-square&logo=git&logoColor=E50914" alt="Repositories" />
   </a>
 </p>
 
