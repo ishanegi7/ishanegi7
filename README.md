@@ -11,24 +11,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/OPERATIVE-ISHA_NEGI-161B22?style=flat-square&labelColor=0D1117" alt="Operative" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CLEARANCE-B.TECH_CSE_(AI_%26_ML)-161B22?style=flat-square&labelColor=0D1117&logo=target&logoColor=FF334B" alt="Clearance" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-348%2B_LOGGED-161B22?style=flat-square&labelColor=0D1117&logo=git&logoColor=FF334B" alt="Contributions" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-161B22?style=flat-square&labelColor=0D1117&logo=check&logoColor=FF334B" alt="Status" />
-</div>
 
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 3D MONEY HEIST ANIMATED TELEMETRY & VAULT MATRIX                          -->
-<!-- ========================================================================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ishanegi7/ishanegi7/main/assets/heist-3d-neural-vault.svg" width="100%" alt="3D Isometric Tactical Vault - Money Heist Telemetry" />
-</div>
 
 <br/>
 
